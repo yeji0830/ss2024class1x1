@@ -27,3 +27,5 @@
     "vite": "^5.4.1"
   }
 }
+# 필요한 패키지 설치
+npm install axios react-router-dom firebase bootstrap
